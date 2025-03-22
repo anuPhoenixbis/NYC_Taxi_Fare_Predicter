@@ -1,7 +1,5 @@
 # NYC Taxi Fare Predictor
 
-![NYC Taxi](https://images.unsplash.com/photo-1605214178469-81028fd7e7e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
 ## Project Overview
 
 This machine learning project predicts New York City taxi fares using location coordinates, passenger count, and datetime information. The model was developed as part of the [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) Kaggle competition.
